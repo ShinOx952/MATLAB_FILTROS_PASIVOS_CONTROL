@@ -21,12 +21,12 @@ La fase inicial consistió en el cálculo teórico y el modelado en MATLAB. La s
 
 ## 2. Herramientas y Competencias Demostradas
 
-* **Modelado y Programación:** Uso avanzado de **MATLAB** para calcular funciones de transferencia ($H(s)$), simular la respuesta en fase y ganancia, y generar gráficos de control.
-* [cite_start]**Validación de Hardware:** Montaje del circuito RC y uso experto del **Osciloscopio** para medir las señales de entrada y salida, demostrando la atenuación de la señal de prueba (PWM) conforme aumenta la frecuencia[cite: 906].
-* [cite_start]**Análisis de Sistemas:** Comprensión de cómo la ganancia cae a -3 dB y la fase a $-45^\circ$ en la frecuencia de corte ($f_c$)[cite: 867, 869].
+* **Modelado y Programación:** Uso avanzado de **MATLAB** para calcular funciones de transferencia H(s), simular la respuesta en fase y ganancia, y generar gráficos de control.
+* **Validación de Hardware:** Montaje del circuito RC y uso experto del **Osciloscopio** para medir las señales de entrada y salida, demostrando la atenuación de la señal de prueba (PWM) conforme aumenta la frecuencia.
+* **Análisis de Sistemas:** Comprensión de cómo la ganancia cae a -3 dB y la fase a $-45^\circ$ en la frecuencia de corte ($f_c$).
 
 **(Imagen de la Simulación en MATLAB)**
-![Gráfico de Ganancia y Fase del Filtro RC en MATLAB](Docs/MATLAB_Filtro_RC.png)
+![Gráfico de Ganancia y Fase del Filtro RC en MATLAB](Img/Filtro_RC.jpg)
 
 **(Imagen de la Medición en Osciloscopio)**
-![Señal de salida medida en el Osciloscopio vs. Señal de entrada](Docs/Osciloscopio_Filtro_RC.png)
+![Señal de salida medida en el Osciloscopio vs. Señal de entrada](Img/Osciloscopio_Resultados.jpg)
